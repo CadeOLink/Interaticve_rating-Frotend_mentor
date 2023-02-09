@@ -40,3 +40,13 @@ h1{
     font-family: 'Overpass', 'sans-serif';
     font-size: 1rem;
 }
+@media screen and (max-width: 700px){
+    .container{
+        top: 15vh;
+        left: 20vw;
+        width: 50%;
+    }
+    img{
+        width: 70%;
+    }
+}
